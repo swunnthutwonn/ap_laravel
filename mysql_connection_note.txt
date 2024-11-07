@@ -1,0 +1,17 @@
+
+Connections
+.env
+
+Migration
+	-id int - 1
+	-Name - varchar
+	-Email - varchar
+	- Password
+	- Created
+	- Updated
+	
+Seeders
+	- Hlaing
+	
+Factories
+	- Name:random(5)
